@@ -9,7 +9,7 @@ const PlayerSchema = mongoose.Schema({
   position: String,
   jerseyNumber: Number,
   team: {
-    type: Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Team'
   }
 });

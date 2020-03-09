@@ -1,0 +1,1733 @@
+{
+  "teams": [
+    {
+      "name": "Atlanta Hawks",
+      "teamIndex": 0,
+      "abbrev": "ATL",
+      "yearFounded": 1946,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419be4a6515b1e0ad75a58.png",
+      "players": []
+    },
+    {
+      "name": "Boston Celtics",
+      "teamIndex": 1,
+      "abbrev": "BOS",
+      "yearFounded": 1946,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c6aa6515b1e0ad75a61.png",
+      "players": []
+    },
+    {
+      "name": "Brooklyn Nets",
+      "teamIndex": 2,
+      "abbrev": "BKN",
+      "yearFounded": 1976,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c7ba6515b1e0ad75a62.png",
+      "players": []
+    },
+    {
+      "name": "Charlotte Hornets",
+      "teamIndex": 3,
+      "abbrev": "CHA",
+      "yearFounded": 1988,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bd7a6515b1e0ad75a57.png",
+      "players": []
+    },
+    {
+      "name": "Chicago Bulls",
+      "teamIndex": 4,
+      "abbrev": "CHI",
+      "yearFounded": 1966,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cf6a6515b1e0ad75a6b.png",
+      "players": []
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "teamIndex": 5,
+      "abbrev": "CLE",
+      "yearFounded": 1970,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c8da6515b1e0ad75a63.png",
+      "players": []
+    },
+    {
+      "name": "Dallas Mavericks",
+      "teamIndex": 6,
+      "abbrev": "DAL",
+      "yearFounded": 1980,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cd6a6515b1e0ad75a68.png",
+      "players": []
+    },
+    {
+      "name": "Denver Nuggets",
+      "teamIndex": 7,
+      "abbrev": "DEN",
+      "yearFounded": 1976,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b70a6515b1e0ad75a50.png",
+      "players": []
+    },
+    {
+      "name": "Detroit Pistons",
+      "teamIndex": 8,
+      "abbrev": "DET",
+      "yearFounded": 1948,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c4ca6515b1e0ad75a5f.png",
+      "players": []
+    },
+    {
+      "name": "Golden State Warriors",
+      "teamIndex": 9,
+      "abbrev": "GSW",
+      "yearFounded": 1946,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ce2a6515b1e0ad75a69.png",
+      "players": []
+    },
+    {
+      "name": "Houston Rockets",
+      "teamIndex": 10,
+      "abbrev": "HOU",
+      "yearFounded": 1967,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ceda6515b1e0ad75a6a.png",
+      "players": []
+    },
+    {
+      "name": "Indiana Pacers",
+      "teamIndex": 11,
+      "abbrev": "IND",
+      "yearFounded": 1976,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b8da6515b1e0ad75a52.png",
+      "players": []
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "teamIndex": 12,
+      "abbrev": "LAC",
+      "yearFounded": 1970,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c59a6515b1e0ad75a60.png",
+      "players": []
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "teamIndex": 13,
+      "abbrev": "LAL",
+      "yearFounded": 1945,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419d0aa6515b1e0ad75a6c.png",
+      "players": []
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "teamIndex": 14,
+      "abbrev": "MEM",
+      "yearFounded": 1995,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c00a6515b1e0ad75a5a.png",
+      "players": []
+    },
+    {
+      "name": "Miami Heat",
+      "teamIndex": 15,
+      "abbrev": "MIA",
+      "yearFounded": 1988,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cafa6515b1e0ad75a65.png",
+      "players": []
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "teamIndex": 16,
+      "abbrev": "MIL",
+      "yearFounded": 1968,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ba7a6515b1e0ad75a54.png",
+      "players": []
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "teamIndex": 17,
+      "abbrev": "MIN",
+      "yearFounded": 1989,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bc5a6515b1e0ad75a56.png",
+      "players": []
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "teamIndex": 18,
+      "abbrev": "NOR",
+      "yearFounded": 2002,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b9ba6515b1e0ad75a53.png",
+      "players": []
+    },
+    {
+      "name": "New York Knicks",
+      "teamIndex": 19,
+      "abbrev": "NYK",
+      "yearFounded": 1946,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cc8a6515b1e0ad75a67.png",
+      "players": []
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "teamIndex": 20,
+      "abbrev": "OKC",
+      "yearFounded": 1967,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c20a6515b1e0ad75a5c.png",
+      "players": []
+    },
+    {
+      "name": "Orlando Magic",
+      "teamIndex": 21,
+      "abbrev": "ORL",
+      "yearFounded": 1989,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b7da6515b1e0ad75a51.png",
+      "players": []
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "teamIndex": 22,
+      "abbrev": "PHI",
+      "yearFounded": 1949,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ca3a6515b1e0ad75a64.png",
+      "players": []
+    },
+    {
+      "name": "Phoenix Suns",
+      "teamIndex": 23,
+      "abbrev": "PHX",
+      "yearFounded": 1968,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419d52a6515b1e0ad75a6d.png",
+      "players": []
+    },
+    {
+      "name": "Portland Trailblazers",
+      "teamIndex": 24,
+      "abbrev": "POR",
+      "yearFounded": 1970,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c2fa6515b1e0ad75a5d.png",
+      "players": []
+    },
+    {
+      "name": "Sacramento Kings",
+      "teamIndex": 25,
+      "abbrev": "SAC",
+      "yearFounded": 1948,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c3da6515b1e0ad75a5e.png",
+      "players": []
+    },
+    {
+      "name": "San Antonio Spurs",
+      "teamIndex": 26,
+      "abbrev": "SAS",
+      "yearFounded": 1976,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cbca6515b1e0ad75a66.png",
+      "players": []
+    },
+    {
+      "name": "Toronto Raptors",
+      "teamIndex": 27,
+      "abbrev": "TOR",
+      "yearFounded": 1994,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bf3a6515b1e0ad75a59.png",
+      "players": []
+    },
+    {
+      "name": "Utah Jazz",
+      "teamIndex": 28,
+      "abbrev": "UTA",
+      "yearFounded": 1975,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bb6a6515b1e0ad75a55.png",
+      "players": []
+    },
+    {
+      "name": "Washington Wizards",
+      "teamIndex": 29,
+      "abbrev": "WAS",
+      "yearFounded": 1961,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c12a6515b1e0ad75a5b.png",
+      "players": []
+    }
+  ],
+  "players": [
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ]
+  ]
+}

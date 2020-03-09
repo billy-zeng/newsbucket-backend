@@ -2,12 +2,13 @@ const mongoose = require('mongoose');
 
 const TeamSchema = mongoose.Schema({
   name: String,
-  yearFounded: String,
-  allTimeRecord: String,
+  teamIndex: Number,
+  abbrev: String,
+  yearFounded: Number,
   conference: String,
   logo: String,
   players: [{
-    type: Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Player'
   }]
 });

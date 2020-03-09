@@ -20,11 +20,11 @@ const UserSchema = mongoose.Schema({
     default: Date.now,
   },
   teams: [{
-    type: Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Team'
   }],
   players: [{
-    type: Schema.Types.ObjectId,
+    type: mongoose.Schema.Types.ObjectId,
     ref: 'Player'
   }],
 });
