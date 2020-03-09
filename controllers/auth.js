@@ -64,7 +64,7 @@ const login = async (req, res) => {
       return res.status(400).json({ message: "Invalid credentials" });
     }
     // create new session for logged in user
-    req.session.currentUser = foundUser._id;
+    req.session.currentUser.id = foundUser._id;
     // req.session.createdAt = new Date().toDateString();
     res.json({ status: 200, message: 'Success', data: foundUser._id });
   } catch (err) {

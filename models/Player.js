@@ -7,10 +7,10 @@ const PlayerSchema = mongoose.Schema({
   weight: Number,
   image: String,
   position: String,
-  teams: [{
+  team: {
     type: Schema.Types.ObjectId,
     ref: 'Team'
-  }]
+  }
 });
 
 const Player = mongoose.model('Player', PlayerSchema);
