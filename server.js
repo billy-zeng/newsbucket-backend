@@ -47,7 +47,9 @@ app.use('/api/v1/auth', routes.auth);
 app.use('/api/v1/users', routes.users);
 app.use('/api/v1/teams', routes.teams);
 app.use('/api/v1/players', routes.players);
+app.use('/api/v1/news', routes.news);
 
+// ----------------------------------- Start Server ----------------------------------- //
 app.listen(PORT, () =>
   console.log(`Server connected at http://localhost:${PORT}`)
 );
