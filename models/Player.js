@@ -6,6 +6,7 @@ const PlayerSchema = mongoose.Schema({
   height: String,
   weight: Number,
   image: String,
+  position: String,
   teams: [{
     type: Schema.Types.ObjectId,
     ref: 'Team'

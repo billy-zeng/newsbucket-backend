@@ -4,6 +4,7 @@ const TeamSchema = mongoose.Schema({
   name: String,
   yearFounded: String,
   allTimeRecord: String,
+  conference: String,
   logo: String,
   players: [{
     type: Schema.Types.ObjectId,
