@@ -8,7 +8,7 @@ const app = express();
 require('dotenv').config();
 const PORT = process.env.PORT
 
-const routes = require('./routes');
+// const routes = require('./routes');
 
 // --------------------------------- Middleware --------------------------------- //
 
@@ -24,7 +24,7 @@ app.use(cors(corsOptions));
 // BodyParser
 app.use(bodyParser.json());
 
-// Express Session - Authentication
+// Express Session
 app.use(
   session({
     store: new MongoStore({ url: process.env.MONGO_URI }), 
