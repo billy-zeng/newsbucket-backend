@@ -8,7 +8,7 @@ const app = express();
 require('dotenv').config();
 const PORT = process.env.PORT
 
-// const routes = require('./routes');
+const routes = require('./routes');
 
 // --------------------------------- Middleware --------------------------------- //
 
@@ -42,6 +42,11 @@ app.use(
 app.get('/', (req, res) => {
   res.send('<h1>NEWS BUCKET</h1>');
 });
+
+app.use('/api/v1/auth', routes.auth);
+app.use('/api/v1/users', routes.users);
+app.use('/api/v1/teams', routes.teams);
+app.use('/api/v1/players', routes.players);
 
 app.listen(PORT, () =>
   console.log(`Server connected at http://localhost:${PORT}`)
