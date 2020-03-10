@@ -42,7 +42,7 @@ const signup = async (req, res) => {
   }
 };
 
-// POST Login - Authenticate User, create session
+// POST Login - Authenticate User, create session - async await
 const login = async (req, res) => {
   try {
     // check if username or password is empty
@@ -63,9 +63,9 @@ const login = async (req, res) => {
     if (!passwordsMatch) {
       return res.status(400).json({ message: "Invalid credentials" });
     }
+    console.log(foundUser)
     // create new session for logged in user
-    req.session.currentUser.id = foundUser._id;
-    // req.session.createdAt = new Date().toDateString();
+    req.session.currentUser = { id: foundUser._id };
     res.json({ status: 200, message: 'Success', data: foundUser._id });
   } catch (err) {
     return res.status(400).json({ error: err });
