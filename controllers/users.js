@@ -14,7 +14,8 @@ const show = (req, res) => {
 const addTeam = async (req, res) => {
   try {
     const updatedUser = await db.User.findById(req.session.currentUser.id);
-    updatedUser.teams.push(req.body);
+    // updatedUser.teams.push(req.body);
+    updatedUser.teams.push(req.params.teamId);
     updatedUser.save();
     res.status(200).json(updatedUser);
   } catch (err) {
@@ -26,7 +27,7 @@ const addTeam = async (req, res) => {
 const removeTeam = async (req, res) => {
   try {
     let updatedUser = await db.User.findById(req.session.currentUser.id);
-    updatedUser.teams.pull({ _id: req.params.teamid })
+    updatedUser.teams.pull({ _id: req.params.teamId })
     updatedUser.save();
     res.status(200).json(updatedUser);
   } catch (err) {
@@ -37,10 +38,12 @@ const removeTeam = async (req, res) => {
 // add player to a user
 const addPlayer = async (req, res) => {
   try {
-    const foundUser = await db.User.findById(req.session.currentUser.id);
-    foundUser.players.push(req.body);
-    foundUser.save();
-    res.status(200).json(foundUser);
+    const updatedUser = await db.User.findById(req.session.currentUser.id);
+    // const updatedUser = await db.User.findById(req.params.id);
+    // updatedUser.players.push(req.body);
+    updatedUser.players.push(req.params.playerId);
+    updatedUser.save();
+    res.status(200).json(updatedUser);
   } catch (err) {
     return res.status(500).json({ message: "Something went wrong, try again" });
   }
@@ -50,7 +53,8 @@ const addPlayer = async (req, res) => {
 const removePlayer = async (req, res) => {
   try {
     let updatedUser = await db.User.findById(req.session.currentUser.id);
-    updatedUser.players.pull({ _id: req.params.playerid })
+    // const updatedUser = await db.User.findById(req.params.id);
+    updatedUser.players.pull({ _id: req.params.playerId })
     updatedUser.save();
     res.status(200).json(updatedUser);
   } catch (err) {
