@@ -52,4 +52,3 @@ Player Detail
 
 User Feed
 
-<img src='/assets/userfeed.png' width='600' height='400'>
