@@ -38,11 +38,6 @@ app.use(
 );
 
 // ----------------------------------- Routes ----------------------------------- //
-
-// app.get('/', (req, res) => {
-//   res.send('<h1>NEWS BUCKET</h1>');
-// });
-
 app.use('/api/v1/auth', routes.auth);
 app.use('/api/v1/users', routes.users);
 app.use('/api/v1/teams', routes.teams);

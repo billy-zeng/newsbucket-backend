@@ -63,10 +63,8 @@ const login = async (req, res) => {
     if (!passwordsMatch) {
       return res.status(400).json({ message: "Invalid credentials" });
     }
-    console.log(foundUser)
     // create new session for logged in user
     req.session.currentUser = { id: foundUser._id };
-    console.log(req.session)
     res.json({ status: 200, message: 'Success', data: foundUser._id });
   } catch (err) {
     return res.status(400).json({ error: err });

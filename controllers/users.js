@@ -55,8 +55,6 @@ const removeTeam = async (req, res) => {
 // add player to a user
 const addPlayer = async (req, res) => {
   try {
-    console.log(req.params)
-    console.log(req.session)
     const updatedUser = await db.User.findById(req.session.currentUser.id);
     // const updatedUser = await db.User.findById(req.params.id);
     updatedUser.players.push(req.params.playerId);
