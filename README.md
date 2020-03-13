@@ -1,7 +1,7 @@
 # NewsBucket 
 
 ### Intro
-Welcome to NewsBucket, your one stop shop for news about the National Basketball Association. Powered by the powerful News API (https://newsapi.org/), NewsBucket gathers the latest articles about your favorite players and teams in the NBA. Click on the name of any individual player or team to view their page full of latest articles about them. Once you create an account, you may like teams and players then click on the 'My Feed' tab to view a list of articles about only the players and teams that you have selected. 
+Welcome to NewsBucket, your one stop shop for news about the National Basketball Association. Powered by the powerful News API (https://newsapi.org), NewsBucket gathers the latest articles about your favorite players and teams in the NBA. Click on the name of any individual player or team to view their page full of latest articles about them. Once you create an account, you may like teams and players then click on the 'My Feed' tab to view a list of articles about only the players and teams that you have selected. 
 
 ### Technologies Implemented
 * Node.js
