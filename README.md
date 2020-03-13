@@ -22,7 +22,7 @@ Welcome to NewsBucket, your one stop shop for news about the National Basketball
 ### Wireframes
 <img src='/assets/wireframe.jpg' width='500' height='650'>
 
-### Entity Relationship Diagrams
+### Entity Relationship Diagram
 <img src='/assets/erd.jpg' width='500' height='400'>
 
 ### Future Features
