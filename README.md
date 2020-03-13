@@ -20,10 +20,10 @@ Welcome to NewsBucket, your one stop shop for news about the National Basketball
 * When user navigates to the 'My Feed' page they see a feed of articles pertaining to only the teams and players they have favorited
 
 ### Wireframes
-
+<img src='/assets/wireframe.jpg' width='500' height='650'>
 
 ### Entity Relationship Diagrams
-
+<img src='/assets/erd.jpg' width='500' height='400'>
 
 ### Future Features
 * Sorting options
@@ -31,3 +31,25 @@ Welcome to NewsBucket, your one stop shop for news about the National Basketball
 * Full responsiveness for mobile
 * Comments/discussion on team and player pages
 * Live player stats
+
+### Screenshots
+
+Landing Page
+
+<img src='/assets/landing.png' width='600' height='400'>
+
+Teams Page
+
+<img src='/assets/teams.png' width='600' height='400'>
+
+Team Detail
+
+<img src='/assets/teamdetail.png' width='600' height='400'>
+
+Player Detail
+
+<img src='/assets/playerdetail.png' width='600' height='400'>
+
+User Feed
+
+<img src='/assets/userfeed.png' width='600' height='400'>
