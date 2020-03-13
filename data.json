@@ -1,0 +1,1686 @@
+{
+  "teams": [
+    {
+      "name": "Atlanta Hawks",
+      "teamIndex": 0,
+      "abbrev": "ATL",
+      "yearFounded": 1946,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419be4a6515b1e0ad75a58.png",
+      "players": []
+    },
+    {
+      "name": "Boston Celtics",
+      "teamIndex": 1,
+      "abbrev": "BOS",
+      "yearFounded": 1946,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c6aa6515b1e0ad75a61.png",
+      "players": []
+    },
+    {
+      "name": "Brooklyn Nets",
+      "teamIndex": 2,
+      "abbrev": "BKN",
+      "yearFounded": 1976,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c7ba6515b1e0ad75a62.png",
+      "players": []
+    },
+    {
+      "name": "Charlotte Hornets",
+      "teamIndex": 3,
+      "abbrev": "CHA",
+      "yearFounded": 1988,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bd7a6515b1e0ad75a57.png",
+      "players": []
+    },
+    {
+      "name": "Chicago Bulls",
+      "teamIndex": 4,
+      "abbrev": "CHI",
+      "yearFounded": 1966,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cf6a6515b1e0ad75a6b.png",
+      "players": []
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "teamIndex": 5,
+      "abbrev": "CLE",
+      "yearFounded": 1970,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c8da6515b1e0ad75a63.png",
+      "players": []
+    },
+    {
+      "name": "Dallas Mavericks",
+      "teamIndex": 6,
+      "abbrev": "DAL",
+      "yearFounded": 1980,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cd6a6515b1e0ad75a68.png",
+      "players": []
+    },
+    {
+      "name": "Denver Nuggets",
+      "teamIndex": 7,
+      "abbrev": "DEN",
+      "yearFounded": 1976,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b70a6515b1e0ad75a50.png",
+      "players": []
+    },
+    {
+      "name": "Detroit Pistons",
+      "teamIndex": 8,
+      "abbrev": "DET",
+      "yearFounded": 1948,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c4ca6515b1e0ad75a5f.png",
+      "players": []
+    },
+    {
+      "name": "Golden State Warriors",
+      "teamIndex": 9,
+      "abbrev": "GSW",
+      "yearFounded": 1946,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ce2a6515b1e0ad75a69.png",
+      "players": []
+    },
+    {
+      "name": "Houston Rockets",
+      "teamIndex": 10,
+      "abbrev": "HOU",
+      "yearFounded": 1967,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ceda6515b1e0ad75a6a.png",
+      "players": []
+    },
+    {
+      "name": "Indiana Pacers",
+      "teamIndex": 11,
+      "abbrev": "IND",
+      "yearFounded": 1976,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b8da6515b1e0ad75a52.png",
+      "players": []
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "teamIndex": 12,
+      "abbrev": "LAC",
+      "yearFounded": 1970,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c59a6515b1e0ad75a60.png",
+      "players": []
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "teamIndex": 13,
+      "abbrev": "LAL",
+      "yearFounded": 1945,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419d0aa6515b1e0ad75a6c.png",
+      "players": []
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "teamIndex": 14,
+      "abbrev": "MEM",
+      "yearFounded": 1995,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c00a6515b1e0ad75a5a.png",
+      "players": []
+    },
+    {
+      "name": "Miami Heat",
+      "teamIndex": 15,
+      "abbrev": "MIA",
+      "yearFounded": 1988,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cafa6515b1e0ad75a65.png",
+      "players": []
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "teamIndex": 16,
+      "abbrev": "MIL",
+      "yearFounded": 1968,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ba7a6515b1e0ad75a54.png",
+      "players": []
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "teamIndex": 17,
+      "abbrev": "MIN",
+      "yearFounded": 1989,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bc5a6515b1e0ad75a56.png",
+      "players": []
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "teamIndex": 18,
+      "abbrev": "NOR",
+      "yearFounded": 2002,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b9ba6515b1e0ad75a53.png",
+      "players": []
+    },
+    {
+      "name": "New York Knicks",
+      "teamIndex": 19,
+      "abbrev": "NYK",
+      "yearFounded": 1946,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cc8a6515b1e0ad75a67.png",
+      "players": []
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "teamIndex": 20,
+      "abbrev": "OKC",
+      "yearFounded": 1967,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c20a6515b1e0ad75a5c.png",
+      "players": []
+    },
+    {
+      "name": "Orlando Magic",
+      "teamIndex": 21,
+      "abbrev": "ORL",
+      "yearFounded": 1989,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419b7da6515b1e0ad75a51.png",
+      "players": []
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "teamIndex": 22,
+      "abbrev": "PHI",
+      "yearFounded": 1949,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419ca3a6515b1e0ad75a64.png",
+      "players": []
+    },
+    {
+      "name": "Phoenix Suns",
+      "teamIndex": 23,
+      "abbrev": "PHX",
+      "yearFounded": 1968,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419d52a6515b1e0ad75a6d.png",
+      "players": []
+    },
+    {
+      "name": "Portland Trailblazers",
+      "teamIndex": 24,
+      "abbrev": "POR",
+      "yearFounded": 1970,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c2fa6515b1e0ad75a5d.png",
+      "players": []
+    },
+    {
+      "name": "Sacramento Kings",
+      "teamIndex": 25,
+      "abbrev": "SAC",
+      "yearFounded": 1948,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c3da6515b1e0ad75a5e.png",
+      "players": []
+    },
+    {
+      "name": "San Antonio Spurs",
+      "teamIndex": 26,
+      "abbrev": "SAS",
+      "yearFounded": 1976,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419cbca6515b1e0ad75a66.png",
+      "players": []
+    },
+    {
+      "name": "Toronto Raptors",
+      "teamIndex": 27,
+      "abbrev": "TOR",
+      "yearFounded": 1994,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bf3a6515b1e0ad75a59.png",
+      "players": []
+    },
+    {
+      "name": "Utah Jazz",
+      "teamIndex": 28,
+      "abbrev": "UTA",
+      "yearFounded": 1975,
+      "conference": "Western",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419bb6a6515b1e0ad75a55.png",
+      "players": []
+    },
+    {
+      "name": "Washington Wizards",
+      "teamIndex": 29,
+      "abbrev": "WAS",
+      "yearFounded": 1961,
+      "conference": "Eastern",
+      "logo": "https://www.stickpng.com/assets/thumbs/58419c12a6515b1e0ad75a5b.png",
+      "players": []
+    }
+  ],
+  "players": [
+    [
+      {
+      "name": "Trae Young",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Kevin Huerter",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628989.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Hunter",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629631.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "John Collins",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628381.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Clint Capela",
+      "age": 25,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Kemba Walker",
+      "age": 29,
+      "height": "6ft 0in",
+      "weight": 184,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202689.png",
+      "position": "Point Guard",
+      "jerseyNumber": 8
+    },
+    {
+      "name": "Jaylen Brown",
+      "age": 23,
+      "height": "6ft 6in",
+      "weight": 223,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 7
+    },
+    {
+      "name": "Jayson Tatum",
+      "age": 22,
+      "height": "6ft 8in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png",
+      "position": "Small Forward",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "Gordon Hayward",
+      "age": 29,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202330.png",
+      "position": "Power Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Daniel Theis",
+      "age": 27,
+      "height": "6ft 8in",
+      "weight": 245,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628464.png",
+      "position": "Center",
+      "jerseyNumber": 27
+    }
+  ],
+    [
+      {
+      "name": "Kyrie Irving",
+      "age": 27,
+      "height": "6ft 2in",
+      "weight": 195,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Caris LeVert",
+      "age": 22,
+      "height": "6ft 6in",
+      "weight": 205,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627747.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 22
+    },
+    {
+      "name": "Joe Harris",
+      "age": 28,
+      "height": "6ft 6in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203925.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "Kevin Durant",
+      "age": 31,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png",
+      "position": "Power Forward",
+      "jerseyNumber": 7
+    },
+    {
+      "name": "Jarrett Allen",
+      "age": 21,
+      "height": "6ft 11in",
+      "weight": 243,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628386.png",
+      "position": "Center",
+      "jerseyNumber": 31
+    }
+  ],
+    [
+      {
+      "name": "Devonte Graham",
+      "age": 25,
+      "height": "6ft 1in",
+      "weight": 195,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628984.png",
+      "position": "Point Guard",
+      "jerseyNumber": 4
+    },
+    {
+      "name": "Terry Rozier",
+      "age": 25,
+      "height": "6ft 1in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Miles Bridges",
+      "age": 21,
+      "height": "6ft 6in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png",
+      "position": "Small Forward",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "PJ Washington",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629023.png",
+      "position": "Power Forward",
+      "jerseyNumber": 25
+    },
+    {
+      "name": "Cody Zeller",
+      "age": 27,
+      "height": "7ft 0in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203469.png",
+      "position": "Center",
+      "jerseyNumber": 40
+    }
+  ],
+    [
+      {
+      "name": "Tomas Satoransky",
+      "age": 28,
+      "height": "6ft 7in",
+      "weight": 210,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203107.png",
+      "position": "Point Guard",
+      "jerseyNumber": 31
+    },
+    {
+      "name": "Zach LaVine",
+      "age": 24,
+      "height": "6ft 6in",
+      "weight": 200,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 8
+    },
+    {
+      "name": "Otto Porter Jr",
+      "age": 26,
+      "height": "6ft 8in",
+      "weight": 198,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203490.png",
+      "position": "Small Forward",
+      "jerseyNumber": 22
+    },
+    {
+      "name": "Lauri Markkanen",
+      "age": 22,
+      "height": "7ft 0in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png",
+      "position": "Power Forward",
+      "jerseyNumber": 24
+    },
+    {
+      "name": "Wendell Carter Jr",
+      "age": 20,
+      "height": "6ft 9in",
+      "weight": 270,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628976.png",
+      "position": "Center",
+      "jerseyNumber": 34
+    }
+  ],
+    [
+      {
+      "name": "Darius Garland",
+      "age": 20,
+      "height": "6ft 1in",
+      "weight": 192,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png",
+      "position": "Point Guard",
+      "jerseyNumber": 10
+    },
+    {
+      "name": "Collin Sexton",
+      "age": 21,
+      "height": "6ft 1in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 2
+    },
+    {
+      "name": "Cedi Osman",
+      "age": 24,
+      "height": "6ft 7in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626224.png",
+      "position": "Small Forward",
+      "jerseyNumber": 16
+    },
+    {
+      "name": "Kevin Love",
+      "age": 31,
+      "height": "6ft 8in",
+      "weight": 251,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
+      "position": "Power Forward",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "Andre Drummond",
+      "age": 26,
+      "height": "6ft 10in",
+      "weight": 279,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203083.png",
+      "position": "Center",
+      "jerseyNumber": 3
+    }
+  ],
+    [
+      {
+      "name": "Luka Doncic",
+      "age": 21,
+      "height": "6ft 7in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png",
+      "position": "Point Guard",
+      "jerseyNumber": 77
+    },
+    {
+      "name": "Tim Hardaway Jr",
+      "age": 27,
+      "height": "6ft 5in",
+      "weight": 205,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203501.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Dorian Finney-Smith",
+      "age": 26,
+      "height": "6ft 7in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627827.png",
+      "position": "Small Forward",
+      "jerseyNumber": 10
+    },
+    {
+      "name": "Kristaps Porzingis",
+      "age": 24,
+      "height": "7ft 3in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png",
+      "position": "Power Forward",
+      "jerseyNumber": 6
+    },
+    {
+      "name": "Maxi Kleber",
+      "age": 28,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628467.png",
+      "position": "Center",
+      "jerseyNumber": 42
+    }
+  ],
+    [
+      {
+      "name": "Jamal Murray",
+      "age": 23,
+      "height": "6ft 4in",
+      "weight": 215,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png",
+      "position": "Point Guard",
+      "jerseyNumber": 27
+    },
+    {
+      "name": "Gary Harris",
+      "age": 25,
+      "height": "6ft 4in",
+      "weight": 210,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 14
+    },
+    {
+      "name": "Will Barton",
+      "age": 29,
+      "height": "6ft 5in",
+      "weight": 181,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png",
+      "position": "Small Forward",
+      "jerseyNumber": 5
+    },
+    {
+      "name": "Paul Millsap",
+      "age": 35,
+      "height": "6ft 7in",
+      "weight": 257,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200794.png",
+      "position": "Power Forward",
+      "jerseyNumber": 4
+    },
+    {
+      "name": "Nikola Jokic",
+      "age": 25,
+      "height": "7ft 0in",
+      "weight": 284,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png",
+      "position": "Center",
+      "jerseyNumber": 15
+    }
+  ],
+    [
+      {
+      "name": "Derrick Rose",
+      "age": 31,
+      "height": "6ft 2in",
+      "weight": 200,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201565.png",
+      "position": "Point Guard",
+      "jerseyNumber": 25
+    },
+    {
+      "name": "Luke Kennard",
+      "age": 23,
+      "height": "6ft 5in",
+      "weight": 206,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628379.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 5
+    },
+    {
+      "name": "Tony Snell",
+      "age": 28,
+      "height": "6ft 6in",
+      "weight": 213,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203503.png",
+      "position": "Small Forward",
+      "jerseyNumber": 17
+    },
+    {
+      "name": "Blake Griffin",
+      "age": 30,
+      "height": "6ft 9in",
+      "weight": 250,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201933.png",
+      "position": "Power Forward",
+      "jerseyNumber": 23
+    },
+    {
+      "name": "Christian Wood",
+      "age": 24,
+      "height": "6ft 10in",
+      "weight": 214,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626174.png",
+      "position": "Center",
+      "jerseyNumber": 35
+    }
+  ],
+    [
+      {
+      "name": "Stephen Curry",
+      "age": 31,
+      "height": "6ft 3in",
+      "weight": 185,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png",
+      "position": "Point Guard",
+      "jerseyNumber": 30
+    },
+    {
+      "name": "Klay Thompson",
+      "age": 30,
+      "height": "6ft 6in",
+      "weight": 215,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Andrew Wiggins",
+      "age": 25,
+      "height": "6ft 7in",
+      "weight": 197,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203952.png",
+      "position": "Small Forward",
+      "jerseyNumber": 22
+    },
+    {
+      "name": "Draymond Green",
+      "age": 30,
+      "height": "6ft 6in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png",
+      "position": "Power Forward",
+      "jerseyNumber": 23
+    },
+    {
+      "name": "Marquese Chriss",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627737.png",
+      "position": "Center",
+      "jerseyNumber": 32
+    }
+  ],
+    [
+      {
+      "name": "Russell Westbrook",
+      "age": 31,
+      "height": "6ft 3in",
+      "weight": 200,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201566.png",
+      "position": "Point Guard",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "James Harden",
+      "age": 30,
+      "height": "6ft 5in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 13
+    },
+    {
+      "name": "Danuel House Jr",
+      "age": 26,
+      "height": "6ft 6in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627863.png",
+      "position": "Small Forward",
+      "jerseyNumber": 4
+    },
+    {
+      "name": "Robert Covington",
+      "age": 29,
+      "height": "6ft 7in",
+      "weight": 209,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png",
+      "position": "Power Forward",
+      "jerseyNumber": 33
+    },
+    {
+      "name": "PJ Tucker",
+      "age": 34,
+      "height": "6ft 5in",
+      "weight": 245,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200782.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Malcom Brogdon",
+      "age": 27,
+      "height": "6ft 5in",
+      "weight": 229,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627763.png",
+      "position": "Point Guard",
+      "jerseyNumber": 7
+    },
+    {
+      "name": "Victor Oladipo",
+      "age": 27,
+      "height": "6ft 4in",
+      "weight": 213,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203506.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 4
+    },
+    {
+      "name": "TJ Warren",
+      "age": 26,
+      "height": "6ft 8in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203933.png",
+      "position": "Small Forward",
+      "jerseyNumber": 1
+    },
+    {
+      "name": "Domantas Sabonis",
+      "age": 23,
+      "height": "6ft 11in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627734.png",
+      "position": "Power Forward",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Myles Turner",
+      "age": 23,
+      "height": "6ft 11in",
+      "weight": 250,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png",
+      "position": "Center",
+      "jerseyNumber": 33
+    }
+  ],
+    [
+      {
+      "name": "Patrick Beverly",
+      "age": 31,
+      "height": "6ft 1in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201976.png",
+      "position": "Point Guard",
+      "jerseyNumber": 21
+    },
+    {
+      "name": "Paul George",
+      "age": 29,
+      "height": "6ft 8in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 13
+    },
+    {
+      "name": "Kawhi Leonard",
+      "age": 28,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
+      "position": "Small Forward",
+      "jerseyNumber": 2
+    },
+    {
+      "name": "Marcus Morris",
+      "age": 30,
+      "height": "6ft 8in",
+      "weight": 218,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202694.png",
+      "position": "Power Forward",
+      "jerseyNumber": 31
+    },
+    {
+      "name": "Ivica Zubac",
+      "age": 22,
+      "height": "7ft 0in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627826.png",
+      "position": "Center",
+      "jerseyNumber": 40
+    }
+  ],
+    [
+      {
+      "name": "Lebron James",
+      "age": 25,
+      "height": "6ft 9in",
+      "weight": 250,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png",
+      "position": "Point Guard",
+      "jerseyNumber": 23
+    },
+    {
+      "name": "Avery Bradley",
+      "age": 29,
+      "height": "6ft 3in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202340.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Danny Green",
+      "age": 32,
+      "height": "6ft 6in",
+      "weight": 215,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201980.png",
+      "position": "Small Forward",
+      "jerseyNumber": 14
+    },
+    {
+      "name": "Anthony Davis",
+      "age": 26,
+      "height": "6ft 10in",
+      "weight": 253,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png",
+      "position": "Power Forward",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "JaVale McGee",
+      "age": 32,
+      "height": "7ft 0in",
+      "weight": 270,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201580.png",
+      "position": "Center",
+      "jerseyNumber": 7
+    }
+  ],
+    [
+      {
+      "name": "Ja Morant",
+      "age": 20,
+      "height": "6ft 3in",
+      "weight": 174,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png",
+      "position": "Point Guard",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "Dillon Brooks",
+      "age": 24,
+      "height": "6ft 7in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628415.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 24
+    },
+    {
+      "name": "Kyle Anderson",
+      "age": 26,
+      "height": "6ft 9in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203937.png",
+      "position": "Small Forward",
+      "jerseyNumber": 1
+    },
+    {
+      "name": "Jaren Jackson Jr",
+      "age": 20,
+      "height": "6ft 11in",
+      "weight": 242,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png",
+      "position": "Power Forward",
+      "jerseyNumber": 13
+    },
+    {
+      "name": "Jonas Valanciunas",
+      "age": 27,
+      "height": "6ft 11in",
+      "weight": 265,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png",
+      "position": "Center",
+      "jerseyNumber": 17
+    }
+  ],
+    [
+      {
+      "name": "Kendrick Nunn",
+      "age": 24,
+      "height": "6ft 2in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629134.png",
+      "position": "Point Guard",
+      "jerseyNumber": 25
+    },
+    {
+      "name": "Duncan Robinson",
+      "age": 25,
+      "height": "6ft 7in",
+      "weight": 215,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629130.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 55
+    },
+    {
+      "name": "Jimmy Butler",
+      "age": 30,
+      "height": "6ft 7in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png",
+      "position": "Small Forward",
+      "jerseyNumber": 22
+    },
+    {
+      "name": "Jae Crowder",
+      "age": 29,
+      "height": "6ft 6in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203109.png",
+      "position": "Power Forward",
+      "jerseyNumber": 99
+    },
+    {
+      "name": "Bam Adebayo",
+      "age": 22,
+      "height": "6ft 9in",
+      "weight": 255,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png",
+      "position": "Center",
+      "jerseyNumber": 13
+    }
+  ],
+    [
+      {
+      "name": "Eric Bledsoe",
+      "age": 30,
+      "height": "6ft 1in",
+      "weight": 214,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202339.png",
+      "position": "Point Guard",
+      "jerseyNumber": 6
+    },
+    {
+      "name": "Wesley Matthews",
+      "age": 33,
+      "height": "6ft 4in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202083.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 9
+    },
+    {
+      "name": "Khris Middleton",
+      "age": 28,
+      "height": "6ft 7in",
+      "weight": 222,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png",
+      "position": "Small Forward",
+      "jerseyNumber": 22
+    },
+    {
+      "name": "Giannis Antetokoumpo",
+      "age": 25,
+      "height": "6ft 11in",
+      "weight": 242,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png",
+      "position": "Power Forward",
+      "jerseyNumber": 34
+    },
+    {
+      "name": "Brook Lopez",
+      "age": 31,
+      "height": "7ft 0in",
+      "weight": 282,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201572.png",
+      "position": "Center",
+      "jerseyNumber": 11
+    }
+  ],
+    [
+      {
+      "name": "DAngelo Russell",
+      "age": 24,
+      "height": "6ft 4in",
+      "weight": 193,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626156.png",
+      "position": "Point Guard",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "Malik Beasley",
+      "age": 23,
+      "height": "6ft 4in",
+      "weight": 187,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 5
+    },
+    {
+      "name": "Josh Okogie",
+      "age": 21,
+      "height": "6ft 4in",
+      "weight": 213,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629006.png",
+      "position": "Small Forward",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Juancho Hernangomez",
+      "age": 24,
+      "height": "6ft 9in",
+      "weight": 214,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627823.png",
+      "position": "Power Forward",
+      "jerseyNumber": 41
+    },
+    {
+      "name": "Karl-Anthony Towns",
+      "age": 24,
+      "height": "6ft 11in",
+      "weight": 248,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626157.png",
+      "position": "Center",
+      "jerseyNumber": 32
+    }
+  ],
+    [
+      {
+      "name": "Lonzo Ball",
+      "age": 22,
+      "height": "6ft 6in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628366.png",
+      "position": "Point Guard",
+      "jerseyNumber": 2
+    },
+    {
+      "name": "Jrue Holiday",
+      "age": 29,
+      "height": "6ft 3in",
+      "weight": 205,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201950.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Brandon Ingram",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627742.png",
+      "position": "Small Forward",
+      "jerseyNumber": 14
+    },
+    {
+      "name": "Zion Williamson",
+      "age": 19,
+      "height": "6ft 6in",
+      "weight": 284,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png",
+      "position": "Power Forward",
+      "jerseyNumber": 1
+    },
+    {
+      "name": "Derrick Favors",
+      "age": 28,
+      "height": "6ft 9in",
+      "weight": 265,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202324.png",
+      "position": "Center",
+      "jerseyNumber": 22
+    }
+  ],
+    [
+      {
+      "name": "Elfrid Payton",
+      "age": 26,
+      "height": "6ft 3in",
+      "weight": 195,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203901.png",
+      "position": "Point Guard",
+      "jerseyNumber": 6
+    },
+    {
+      "name": "RJ Barrett",
+      "age": 19,
+      "height": "6ft 6in",
+      "weight": 214,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 9
+    },
+    {
+      "name": "Maurice Harkless",
+      "age": 26,
+      "height": "6ft 7in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203090.png",
+      "position": "Small Forward",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Julius Randle",
+      "age": 25,
+      "height": "6ft 8in",
+      "weight": 250,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png",
+      "position": "Power Forward",
+      "jerseyNumber": 30
+    },
+    {
+      "name": "Mitchell Robinson",
+      "age": 21,
+      "height": "7ft 0in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629011.png",
+      "position": "Center",
+      "jerseyNumber": 23
+    }
+  ],
+    [
+      {
+      "name": "Chris Paul",
+      "age": 34,
+      "height": "6ft 1in",
+      "weight": 175,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png",
+      "position": "Point Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Shai Gilgeous-Alexander",
+      "age": 21,
+      "height": "6ft 5in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 2
+    },
+    {
+      "name": "Terrance Ferguson",
+      "age": 21,
+      "height": "6ft 6in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628390.png",
+      "position": "Small Forward",
+      "jerseyNumber": 23
+    },
+    {
+      "name": "Danilo Gallinari",
+      "age": 31,
+      "height": "6ft 10in",
+      "weight": 233,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201568.png",
+      "position": "Power Forward",
+      "jerseyNumber": 8
+    },
+    {
+      "name": "Steven Adams",
+      "age": 26,
+      "height": "6ft 11in",
+      "weight": 265,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203500.png",
+      "position": "Center",
+      "jerseyNumber": 12
+    }
+  ],
+    [
+      {
+      "name": "Markelle Fultz",
+      "age": 21,
+      "height": "6ft 3in",
+      "weight": 209,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
+      "position": "Point Guard",
+      "jerseyNumber": 20
+    },
+    {
+      "name": "Evan Fournier",
+      "age": 27,
+      "height": "6ft 7in",
+      "weight": 205,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203095.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 10
+    },
+    {
+      "name": "Aaron Gordon",
+      "age": 24,
+      "height": "6ft 8in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png",
+      "position": "Small Forward",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "Jonathan Isaac",
+      "age": 22,
+      "height": "6ft 11in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628371.png",
+      "position": "Power Forward",
+      "jerseyNumber": 1
+    },
+    {
+      "name": "Nikola Vucevic",
+      "age": 29,
+      "height": "6ft 11in",
+      "weight": 260,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202696.png",
+      "position": "Center",
+      "jerseyNumber": 9
+    }
+  ],
+    [
+      {
+      "name": "Ben Simmons",
+      "age": 23,
+      "height": "6ft 10in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png",
+      "position": "Point Guard",
+      "jerseyNumber": 25
+    },
+    {
+      "name": "Josh Richardson",
+      "age": 26,
+      "height": "6ft 5in",
+      "weight": 200,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626196.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "Tobias Harris",
+      "age": 27,
+      "height": "6ft 8in",
+      "weight": 226,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png",
+      "position": "Small Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "Al Horford",
+      "age": 33,
+      "height": "6ft 9in",
+      "weight": 240,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201143.png",
+      "position": "Power Forward",
+      "jerseyNumber": 42
+    },
+    {
+      "name": "Joel Embiid",
+      "age": 25,
+      "height": "7ft 0in",
+      "weight": 280,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png",
+      "position": "Center",
+      "jerseyNumber": 21
+    }
+  ],
+    [
+      {
+      "name": "Ricky Rubio",
+      "age": 29,
+      "height": "6ft in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201937.png",
+      "position": "Point Guard",
+      "jerseyNumber": 11
+    },
+    {
+      "name": "Devin Booker",
+      "age": 23,
+      "height": "6ft 5in",
+      "weight": 206,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 1
+    },
+    {
+      "name": "Mikal Bridges",
+      "age": 23,
+      "height": "6ft 6in",
+      "weight": 209,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628969.png",
+      "position": "Small Forward",
+      "jerseyNumber": 25
+    },
+    {
+      "name": "Kelly Oubre Jr",
+      "age": 24,
+      "height": "6ft 7in",
+      "weight": 203,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626162.png",
+      "position": "Power Forward",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Deandre Ayton",
+      "age": 21,
+      "height": "6ft 11in",
+      "weight": 250,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629028.png",
+      "position": "Center",
+      "jerseyNumber": 22
+    }
+  ],
+    [
+      {
+      "name": "Damian Lillard",
+      "age": 29,
+      "height": "6ft 2in",
+      "weight": 195,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png",
+      "position": "Point Guard",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "CJ McCollum",
+      "age": 28,
+      "height": "6ft 3in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203468.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Trevor Ariza",
+      "age": 34,
+      "height": "6ft 8in",
+      "weight": 215,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2772.png",
+      "position": "Small Forward",
+      "jerseyNumber": 8
+    },
+    {
+      "name": "Carmelo Anthony",
+      "age": 35,
+      "height": "6ft 8in",
+      "weight": 238,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2546.png",
+      "position": "Power Forward",
+      "jerseyNumber": 0
+    },
+    {
+      "name": "Hassan Whiteside",
+      "age": 30,
+      "height": "7ft 0in",
+      "weight": 265,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202355.png",
+      "position": "Center",
+      "jerseyNumber": 21
+    }
+  ],
+    [
+      {
+      "name": "DeAaron Fox",
+      "age": 22,
+      "height": "6ft 3in",
+      "weight": 185,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png",
+      "position": "Point Guard",
+      "jerseyNumber": 5
+    },
+    {
+      "name": "Buddy Hield",
+      "age": 27,
+      "height": "6ft 4in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627741.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 24
+    },
+    {
+      "name": "Bogdan Bogdanovic",
+      "age": 27,
+      "height": "6ft 6in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203992.png",
+      "position": "Small Forward",
+      "jerseyNumber": 8
+    },
+    {
+      "name": "Harrison Barnes",
+      "age": 27,
+      "height": "6ft 8in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203084.png",
+      "position": "Power Forward",
+      "jerseyNumber": 40
+    },
+    {
+      "name": "Marvin Bagley III",
+      "age": 20,
+      "height": "6ft 11in",
+      "weight": 235,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
+      "position": "Center",
+      "jerseyNumber": 35
+    }
+  ],
+    [
+      {
+      "name": "Dejounte Murray",
+      "age": 23,
+      "height": "6ft 4in",
+      "weight": 180,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png",
+      "position": "Point Guard",
+      "jerseyNumber": 5
+    },
+    {
+      "name": "Derrick White",
+      "age": 25,
+      "height": "6ft 4in",
+      "weight": 190,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 4
+    },
+    {
+      "name": "DeMar DeRozan",
+      "age": 30,
+      "height": "6ft 6in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
+      "position": "Small Forward",
+      "jerseyNumber": 10
+    },
+    {
+      "name": "LaMarcus Aldridge",
+      "age": 34,
+      "height": "6ft 11in",
+      "weight": 250,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png",
+      "position": "Power Forward",
+      "jerseyNumber": 12
+    },
+    {
+      "name": "Jakob Poeltl",
+      "age": 24,
+      "height": "7ft 1in",
+      "weight": 245,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png",
+      "position": "Center",
+      "jerseyNumber": 25
+    }
+  ],
+    [
+      {
+      "name": "Kyle Lowry",
+      "age": 33,
+      "height": "6ft 0in",
+      "weight": 196,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png",
+      "position": "Point Guard",
+      "jerseyNumber": 7
+    },
+    {
+      "name": "Fred VanVleet",
+      "age": 26,
+      "height": "6ft 1in",
+      "weight": 197,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 23
+    },
+    {
+      "name": "OG Anunoby",
+      "age": 22,
+      "height": "6ft 7in",
+      "weight": 232,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
+      "position": "Small Forward",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Pascal Siakam",
+      "age": 25,
+      "height": "6ft 9in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png",
+      "position": "Power Forward",
+      "jerseyNumber": 43
+    },
+    {
+      "name": "Marc Gasol",
+      "age": 35,
+      "height": "6ft 11in",
+      "weight": 255,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201188.png",
+      "position": "Center",
+      "jerseyNumber": 33
+    }
+  ],
+    [
+      {
+      "name": "Mike Conley",
+      "age": 32,
+      "height": "6ft 1in",
+      "weight": 175,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201144.png",
+      "position": "Point Guard",
+      "jerseyNumber": 10
+    },
+    {
+      "name": "Donovan Mitchell",
+      "age": 23,
+      "height": "6ft 1in",
+      "weight": 215,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 45
+    },
+    {
+      "name": "Joe Ingles",
+      "age": 32,
+      "height": "6ft 7in",
+      "weight": 220,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204060.png",
+      "position": "Small Forward",
+      "jerseyNumber": 2
+    },
+    {
+      "name": "Bojan Bogdanovic",
+      "age": 30,
+      "height": "6ft 8in",
+      "weight": 226,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202711.png",
+      "position": "Power Forward",
+      "jerseyNumber": 44
+    },
+    {
+      "name": "Rudy Gobert",
+      "age": 27,
+      "height": "7ft 1in",
+      "weight": 258,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png",
+      "position": "Center",
+      "jerseyNumber": 27
+    }
+  ],
+    [
+      {
+      "name": "John Wall",
+      "age": 29,
+      "height": "6ft 4in",
+      "weight": 210,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202322.png",
+      "position": "Point Guard",
+      "jerseyNumber": 2
+    },
+    {
+      "name": "Bradley Beal",
+      "age": 26,
+      "height": "6ft 3in",
+      "weight": 207,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png",
+      "position": "Shooting Guard",
+      "jerseyNumber": 3
+    },
+    {
+      "name": "Davis Bertans",
+      "age": 27,
+      "height": "6ft 10in",
+      "weight": 225,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png",
+      "position": "Small Forward",
+      "jerseyNumber": 42
+    },
+    {
+      "name": "Rui Hachimura",
+      "age": 22,
+      "height": "6ft 8in",
+      "weight": 230,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629060.png",
+      "position": "Power Forward",
+      "jerseyNumber": 8
+    },
+    {
+      "name": "Thomas Bryant",
+      "age": 22,
+      "height": "6ft 10in",
+      "weight": 248,
+      "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628418.png",
+      "position": "Center",
+      "jerseyNumber": 13
+    }
+  ]
+  ]
+}
