@@ -9,5 +9,6 @@ router.delete('/:id/teams/:teamId', ctrl.users.removeTeam);
 router.put('/:id/players/:playerId', ctrl.users.addPlayer);
 router.delete('/:id/players/:playerId', ctrl.users.removePlayer);
 router.delete('/:id', ctrl.users.destroy)
+router.put('/:id', ctrl.users.edit);
 
 module.exports = router;
