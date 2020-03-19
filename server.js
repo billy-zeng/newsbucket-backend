@@ -14,7 +14,7 @@ const routes = require('./routes');
 
 // cors
 const corsOptions = {
-  origin: ['http://localhost:3000'],
+  origin: ['https://newsbucket-app.herokuapp.com'],
   credentials: true,
   optionsSuccessStatus: 200
 };
@@ -27,7 +27,7 @@ app.use(bodyParser.json());
 // Express Session
 app.use(
   session({
-    store: new MongoStore({ url: process.env.MONGO_URI }), 
+    store: new MongoStore({ url: process.env.MONGODB_URI }), 
     secret: process.env.SESSION_SECRET, 
     resave: false, 
     saveUninitialized: false,
