@@ -52,7 +52,7 @@ const userfeed = async (req, res) => {
 
     let flag = 0;
     for(let k=0; k<searchTerms.length; k++){
-      fetch(`http://newsapi.org/v2/everything?qInTitle=${encodeURIComponent(searchTerms[k].name)}&excludeDomains=nba.com,youtube.com,mundodeportivo.com&language=en&sortBy=publishedAt&pageSize=8&apiKey=${process.env.API_KEY}`, {
+      fetch(`http://newsapi.org/v2/everything?qInTitle=${encodeURIComponent(searchTerms[k].name)}&excludeDomains=nba.com,youtube.com,mundodeportivo.com&language=en&sortBy=publishedAt&pageSize=10&apiKey=${process.env.API_KEY}`, {
         method: 'GET',
         headers: {
           "Content-Type": "application/json",
